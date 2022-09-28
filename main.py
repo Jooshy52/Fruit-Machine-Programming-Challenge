@@ -3,8 +3,6 @@ from collections import defaultdict
 import tkinter as tk
 from tkinter import ttk
 
-import threading
-
 import random
 
 from fruit_dictionary import Fruit
